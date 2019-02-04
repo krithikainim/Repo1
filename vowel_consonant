@@ -1,1 +1,2 @@
 #vowel or consonant
+if x=='a' or 'e' or 'i' or 'o' or 'u'
