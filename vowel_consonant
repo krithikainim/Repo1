@@ -1,6 +1,0 @@
-#vowel or consonant
-x=int(input())
-if x=='a' or 'e' or 'i' or 'o' or 'u':
- print ("vowel")
- else:
- print("consonant")
